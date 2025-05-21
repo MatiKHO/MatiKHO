@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Matías</h1>
-<h3 align="center">Full Stack Web Developer | UX/UI Enthusiast | Gamer at Heart</h3>
+<h3 align="center">Full Stack Web Developer | UX/UI Design | Gamer at Heart</h3>
 
 <p align="center">
   Born in 🇵🇾 Paraguay, raised in 🇪🇸 Spain, and coding my journey from 📍Madrid since 2019.
