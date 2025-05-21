@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a full stack web developer who loves turning ideas into beautiful and functional digital experiences. With a strong eye for **UX/UI Design** and a passion for **videogames**, I bring creativity, precision, and energy to every line of code.
+<p align="center">I'm a full stack web developer who loves turning ideas into beautiful and functional digital experiences. With a strong eye for **UX/UI Design** and a passion for **videogames**, I bring creativity, precision, and energy to every line of code.</p>
 
 - 🧠 Always learning, always building
 - 💡 Design-focused thinker
@@ -27,13 +27,13 @@ I'm a full stack web developer who loves turning ideas into beautiful and functi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
@@ -54,11 +54,11 @@ I'm a full stack web developer who loves turning ideas into beautiful and functi
 
 ### 🧩 Fun Fact
 
-I design interfaces like I plan gaming strategies — with precision, intuition, and just the right amount of caffeine.
+<p align="center">I design interfaces like I plan gaming strategies — with precision, intuition, and just the right amount of caffeine.</p>
 
 ---
 
-> "Code is my canvas, and the browser is where my art comes to life."
+<p align="center">"Code is my canvas, and the browser is where my art comes to life."</p>
 
 
 
