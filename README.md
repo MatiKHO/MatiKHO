@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-<p align="center">I'm a full stack web developer who loves turning ideas into beautiful and functional digital experiences. With a strong eye for **UX/UI Design** and a passion for **videogames**, I bring creativity, precision, and energy to every line of code.</p>
+I'm a full stack web developer who loves turning ideas into beautiful and functional digital experiences. With a strong eye for **UX/UI Design** and a passion for **videogames**, I bring creativity, precision, and energy to every line of code.
 
 - 🧠 Always learning, always building
 - 💡 Design-focused thinker
