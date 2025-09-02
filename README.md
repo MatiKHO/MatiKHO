@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Matías</h1>
-<h3 align="center">Full Stack Web Developer | UX/UI Design | Gamer at Heart</h3>
+<h3 align="center">Full Stack Web Developer | UX/UI Design | Videogames Designer</h3>
 
 <p align="center">
-  Born in 🇵🇾 Paraguay, raised in 🇪🇸 Spain, and coding my journey from 📍Madrid since 2019.
+  Born in 🇵🇾 Paraguay, raised in 🇪🇸 Spain, and coding my journey from 📍Madrid since 2024.
 </p>
 
 ---
@@ -35,7 +35,7 @@ I'm a full stack web developer who loves turning ideas into beautiful and functi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity_small-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
 </p>
 
 ---
@@ -62,18 +62,3 @@ I'm a full stack web developer who loves turning ideas into beautiful and functi
 <p align="center">"Code is my canvas, and the browser is where my art comes to life."</p>
 
 
-
-<!--
-**MatiKHO/MatiKHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
